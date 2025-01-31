@@ -6,7 +6,6 @@ import Banner from '../components/Banner';
 import Feature from '../components/Feature';
 import WhoWeAre from '../components/WhoWeAre';
 import Services from '../components/Services';
-import Testimonials from '../components/Testimonials';
 import Blog from '../components/Blog';
 import Footer from '../components/Footer';
 import "../assets/styles/css/flaticon.css";
